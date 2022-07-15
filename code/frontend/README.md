@@ -1,5 +1,5 @@
 # App URL
 
-https://jhu-studybuddy.netlify.app/
+https://jhu-nimbus.netlify.app/
 
 
