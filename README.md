@@ -10,7 +10,7 @@ A brief description of your project (elevator pitch goes here).
 | Katie Zhang |   |   |
 | Jiarui Chen |   |   | 
 | Hussein Fuaad Mahmoud | hmahmou3@jh.edu |fuaad001 |
-| Abdouh Harouna Ken |  |  | 
+| Abdouh Harouna Ken | aharoun1@jhu.edu | h-kenfack | 
 
 
 ## Documentation
